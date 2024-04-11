@@ -1,16 +1,58 @@
-### Hi there 👋
+### Hello! I'm [José Cabello Cubero][linkedIn]! 🤙
 
-<!--
-**Cabello9/Cabello9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer working on creating video games, focused on promote a strong and collaborative team culture. I'm driven by the constant search for best practices, continuous feedback and excellence in producing quality products.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🗺 Spanish, English
+* 🎮 Gamedev
+* 🛠 Software Craftsperson
+
+## Connect with me!
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedIn]
+
+[gmail]: jose.cabello.cubero@gmail.com
+[linkedIn]: https://www.linkedin.com/in/jos%C3%A9-cabello-cubero-231262185/
+
+<br />
+
+## Technologies I normally work with
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Playfab](https://img.shields.io/badge/PLAYFAB-orange?style=for-the-badge) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![PlantUML](https://img.shields.io/badge/PlantUML-yellow?style=for-the-badge&logo=uml&logoColor=black)
+
+## Software Crafting Skills 🔨
+
+**TDD | XP | Test Automation | Agile | Trunk Based Development | CI/CD | Pair/Mob Programming | SOLID**
+
+<br />
+
+## 📚 Bookshelf
+
+📖 Current readings:
+
+- Soft Skills: The Software Developer's Life Manual; John Sonmez
+- Patterns of Enterprise Application Architecture; Martin Fowler
+- Remote Mob Programming: At home, but not alone
+
+📕 Previous readings:
+
+- Clean Code: A Handbook of Agile Software Craftsmanship; Robert C. Martin
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design; Robert C. Martin
+- Extreme Programming Explained: Embrace Change; Kent Beck; Cynthia Andres
+- Idea Flow: How to Measure the PAIN in Software Development; Janelle Klein
+- Test-Driven Development By Example; Kent Beck
+- The Art of Readable Code. Simple and Practical techniques for Writing Better Code; Dustin Boswell; Trevor Foucher
+- Theory of Constraints; Eliyahu M. Goldratt
+- The Software Craftsman: Professionalism, Pragmatism, Pride; Sandro Mancuso
+- Unit Testing. Principles, Practices and Patterns; Vladimir Khorikov
+- Remote: Office Not Required; Jason Fried & David Heinemeier Hansson
+- Rework; Jason Fried & David Heinemeier Hansson
+- The unified modeling language user guide; Grady Booch
+- Head First Design Patterns; Eric Freeman y Kathy Sierra
+
+🔮 Future readings:
+
+- Accelerate: The Science of Lean Software and DevOps; Nicole Forsgren; PhD Jez Humble; Gene Kim
+- Peopleware: Productive Projects and Teams; Tom DeMarco; Timothy Lister
+- A Philosophy of Software Design; John Ousterhou
