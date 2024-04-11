@@ -24,7 +24,6 @@ I'm a software engineer working on creating video games, focused on promote a st
 ## Software Crafting Skills 🔨
 
 **TDD | XP | Test Automation | Agile | Trunk Based Development | CI/CD | Pair/Mob Programming | SOLID**
-
 <br />
 
 ## 📚 Bookshelf
