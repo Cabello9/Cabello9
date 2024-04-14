@@ -1,12 +1,13 @@
 ### Hello! I'm [José Cabello Cubero][linkedIn]! 🤙
 
-I'm a software engineer working on creating video games, focused on promote a strong and collaborative team culture. I'm driven by the constant search for best practices, continuous feedback and excellence in producing quality products.
+I'm a <img src="https://cdn-icons-png.flaticon.com/128/323/323365.png" width="13"/> Spanish Gamedev focused on good practices and promote a strong and collaborative team culture.
 
 ## About Me
 
-* 🗺 Spanish, English
-* 🎮 Gamedev
-* 🛠 Software Craftsperson
+* 🗺 Spanish, English.
+* 🎮 Gamedev.
+* 🛠 Software Craftsperson.
+* 🤝 Team culture.
 
 ## Connect with me!
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
