@@ -21,7 +21,7 @@ I'm a <img src="https://cdn-icons-png.flaticon.com/128/323/323365.png" width="13
 ## Skills
 
 ### Software Crafting Skills 
-**TDD | XP | Test Automation | Agile | Trunk Based Development | CI/CD | Pair/Mob Programming | Refactoring | SOLID**
+![TDD](https://img.shields.io/badge/TDD-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/XP-green?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test%20automation-purple?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Agile-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Trunk%20Based%20Development-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CI%2FCD-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Pair%2FMob%20Programming-yellow?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Refactoring-purple?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Solid-green?style=for-the-badge)
 
 ### Tech Stack
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![NUnit](https://img.shields.io/badge/nUnit-blue?style=for-the-badge) ![WPF](https://img.shields.io/badge/WPF-orange?style=for-the-badge)
