@@ -38,9 +38,7 @@ I'm a <img src="https://cdn-icons-png.flaticon.com/128/323/323365.png" width="13
 
 📖 Current readings:
 
-- Soft Skills: The Software Developer's Life Manual; John Sonmez
-- Patterns of Enterprise Application Architecture; Martin Fowler
-- Remote Mob Programming: At home, but not alone
+- Working Effectively with Legacy Code
 
 📕 Previous readings:
 
@@ -50,16 +48,10 @@ I'm a <img src="https://cdn-icons-png.flaticon.com/128/323/323365.png" width="13
 - Idea Flow: How to Measure the PAIN in Software Development; Janelle Klein
 - Test-Driven Development By Example; Kent Beck
 - The Art of Readable Code. Simple and Practical techniques for Writing Better Code; Dustin Boswell; Trevor Foucher
-- Theory of Constraints; Eliyahu M. Goldratt
 - The Software Craftsman: Professionalism, Pragmatism, Pride; Sandro Mancuso
 - Unit Testing. Principles, Practices and Patterns; Vladimir Khorikov
 - Remote: Office Not Required; Jason Fried & David Heinemeier Hansson
 - Rework; Jason Fried & David Heinemeier Hansson
 - The unified modeling language user guide; Grady Booch
 - Head First Design Patterns; Eric Freeman y Kathy Sierra
-
-🔮 Future readings:
-
-- Accelerate: The Science of Lean Software and DevOps; Nicole Forsgren; PhD Jez Humble; Gene Kim
-- Peopleware: Productive Projects and Teams; Tom DeMarco; Timothy Lister
-- A Philosophy of Software Design; John Ousterhou
+- Soft Skills: The Software Developer's Life Manual; John Sonmez
